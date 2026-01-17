@@ -148,26 +148,19 @@ div.card {
 
     div.text_two {
       display: flex;
-      justify-content: space-between;
+      gap: 245px;
 
       p {
         font-size: 16px;
         font-weight: 400;
         color: rgba(95, 86, 77, 1);
         margin-left: 32px;
+        width: 59px;
       }
       span {
         color: rgba(133, 70, 50, 1);
         font-weight: 700;
         font-size: 16px;
-        margin-right: 274px;
-      }
-
-      span.two {
-        margin-right: 300px;
-      }
-      span.zero {
-        margin-right: 309px;
       }
     }
   }
